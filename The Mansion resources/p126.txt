@@ -1,0 +1,11 @@
+P126
+Entering out into the cold night air, Trixie traverses the rooftop and enters into the library. The girls observe a bounty of knowledge before them and Twilight lets out a grumble of mercy.
+
+“What?” Trixie responds, attempting to understand her. Twilight lets out another whimper and looks upon herself the best she can with her own eyes, and then back and forth between the books.
+
+“Ohh, you want me to look for a book on transformation?”
+
+CHOICE
+SEARCH FOR A BOOK ON TRANSFORMATION MAGIC >p127
+PERUSE THE OPEN BOOK ON THE DESK >p150
+CONTINUE ONWARDS >p129

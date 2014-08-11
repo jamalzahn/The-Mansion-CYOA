@@ -1,0 +1,10 @@
+P55
+Trixie swiftly takes to the left corridor as the shadow bears down on her, swerving to continue its chase. She leaps into the room at the end of the hallway and slams the door shut, backing away from it.
+
+The distant groaning gently ceases, the shadow apparently having given up. Trixie looks around the room and finds herself in a gallery. Paintings of ponies line the room in ornately crafted frames.
+
+Her attention is drawn to one particular painting, a beautiful work of art depicting a country scene, but apparently missing its subject with an empty spot for a character focused on in the foreground.
+
+INSPECT THE PAINTING?
+YES >p56
+NO >p57

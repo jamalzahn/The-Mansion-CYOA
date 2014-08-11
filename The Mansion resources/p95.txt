@@ -1,0 +1,13 @@
+P95
+Ahead, Trixie enters into a hallway with two options, continue straight on, or something new entirely.
+
+To her left in the centre of the corridor resides a large, golden double door with heavy gilded handles, besides it on both sides are plaques claiming the room to be the treasury of the house.
+
+CHOICE
+CARRY ON >p66
+ENTER THE TREASURY >p96
+
+Delicious - ponykillerx.deviantart.com/
+Flying is Magic - asdf314159265 - asdf314159265.deviantart.com/
+Queen of Emerald Waters - jackjacko-eponymous.deviantart…
+Another Day Another Dungeon - vest.deviantart.com/

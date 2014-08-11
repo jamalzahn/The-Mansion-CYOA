@@ -1,0 +1,6 @@
+P50
+The girls climb until they find a door in the wall, yet the stairs continue upward still.
+
+CHOICE
+GO THROUGH THE DOOR >p207
+KEEP CLIMBING >p51

@@ -1,0 +1,6 @@
+P125
+Moving forward, Trixie enters a spiral staircase with her new hat and cape in tow. Having explored the bottom floor, she chooses to press on to the top and enters into the observatory.
+
+CHOICE
+LOOK AROUND >p149
+LEAVE >p126

@@ -1,0 +1,8 @@
+P78
+As Trixie approaches the door, a light flashes and she finds herself in another room. A triangle on a plinth sits before her.
+
+INSPECT THE TRIANGLE?
+YES >p69
+NO >p68
+
+Unique Flower - hazurasinner.deviantart.com/

@@ -1,0 +1,9 @@
+P57
+Trixie ignores the painting and carries on. Upon passing the hallway, she enters into a plain room with three more doors. On one door, a placard reads ‘Greenhouse’, whilst the other two doors remain nameless.
+
+CHOICE
+GREENHOUSE >p200
+FORWARD DOOR >p58
+RIGHT DOOR >p4
+
+Flying is Magic - asdf314159265 - asdf314159265.deviantart.com/

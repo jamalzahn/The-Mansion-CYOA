@@ -1,0 +1,6 @@
+P108
+Heading right, Trixie carries on carefully whilst minding her step in the rough stone halls. After endless waking a door finally appears to her rights. The corridor however carries on into more darkness.
+
+CHOICE
+ENTER THE DOOR >p109
+CARRY ON >p110

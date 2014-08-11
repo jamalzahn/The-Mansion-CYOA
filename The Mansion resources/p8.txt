@@ -1,0 +1,9 @@
+P8
+The couple carefully slip into the next room, a smaller branch of the mansion’s many corridors. In front of them is a shimmering glass door revealing the back of the estate, a golden placard besides with ‘Garden’ engraved into it. The door labelled 'Kitchen' on the right seems to be locked.
+
+CHOICE
+
+GARDEN >p9
+LEFT DOOR >p48
+
+Graduate Fiction Lounge - nadnerbd.deviantart.com/

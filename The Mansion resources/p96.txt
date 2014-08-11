@@ -1,0 +1,8 @@
+P96
+Trixie enters into the treasury and her jaw hits the floor. Mountains of gold, gems, artefacts and treasures of all kind await her immediate attention.
+
+CHOICE
+TAKE A LOT OF GOLD >p99
+TAKE A LITTLE GOLD >p97
+LEAVE >p98
+WHAT'S THAT BOTTLE? >p208

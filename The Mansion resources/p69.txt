@@ -1,0 +1,10 @@
+P69
+Trixie cautiously approaches the plinth, lowering her head and narrowing her eyes, nudging the triangle with her nose. It reacts pleasantly, opening up like a blossoming flower to reveal a bright white light. The light floats by itself for a moment before empowering, blinding Trixie with it’s glow.
+
+When it finally fades, Trixie unshields her eyes to find herself in a completely different room, more than just a room, it’s a large, bright domed hall, laid entirely with small mosaic tiles, water features running circular around the central platform that she stands upon.
+
+A divine sound begins to echo around the chamber, Trixie sharply turning to find herself beside a large golden harp. It seems to be playing itself as the string pluck and vibrate by themselves.
+
+CHOICE
+LISTEN TO THE MUSIC PLAY >p70
+LEAVE >p71

@@ -1,0 +1,11 @@
+P112
+Trixie reaches the foyer of the second floor, there isn’t much remarkable about it save for a choice of five doors as well as a grandfather clock behind the stairs, piercing the silent ambience with each beating swing of the pendulum.
+
+CHOICE
+FORWARD DOOR >p67
+FORWARD LEFT DOOR >p114
+FORWARD RIGHT DOOR >p115
+BACK RIGHT DOOR >p85
+INSPECT THE CLOCK >p113
+
+Eeeyaie aie aye eee - vest.deviantart.com/

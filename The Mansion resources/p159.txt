@@ -1,0 +1,10 @@
+Page 159
+Pressing right, the girls enter into a new room with three doors on either side to choose from. One of the doors possesses a placard reading ‘Bathroom’, whilst the others remain nameless.
+
+CHOOSE
+BATHROOM >p160
+FORWARD >p105
+RIGHT >p16
+
+Queen of Emerald Waters - jackjacko-eponymous.deviantart…
+City Beneath a Million Snowdrops - repoisn.deviantart.com/

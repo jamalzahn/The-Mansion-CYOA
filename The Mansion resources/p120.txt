@@ -1,0 +1,9 @@
+P120
+Out of character, Twilight begins to wander away from Trixie though, Trixie follows simply thinking Twilight has an idea of where to go. As they enter into the next room, Trixie cocks her head in confusion as Twilight approaches a table with a peculiar collection of items laden on it.
+
+Attempting to get her friends attention fails, and Trixie’s concern grows as Twilight reaches out for the cake on the table.
+
+CHOICE
+TALK TO TWILIGHT >p152
+NUDGE TWILIGHT >p121
+WAVE A HOOF IN FRONT OF TWILIGHT >p153

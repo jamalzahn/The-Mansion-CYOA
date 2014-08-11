@@ -1,0 +1,8 @@
+P115
+Entering the bedroom, Trixie notices a few bits on a desk besides the bed, scooping them up before a large ornate mirror catches her eye in the corner of the room.
+
+GOT 5 BITS
+
+CHOICE
+LOOK AT THE MIRROR >p116
+CARRY ON >p85

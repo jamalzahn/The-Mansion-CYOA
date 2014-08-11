@@ -1,0 +1,6 @@
+P100
+Ahead on the left, the girls come across a fork in the path.
+
+CHOICE
+LEFT >p101
+RIGHT >p104

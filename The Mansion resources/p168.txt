@@ -1,0 +1,6 @@
+P168
+As the girls make their way out of the Bathhouse, the floor below them gives way and they tumble down into the depths of the mansion’s dungeons. Recovering from their fall, Trixie and Twilight are faced with only two choices.
+
+CHOOSE
+LEFT >p169
+RIGHT >p101

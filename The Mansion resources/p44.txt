@@ -1,0 +1,12 @@
+P44
+Trixie enters into another unremarkable room, but this time with more doors.
+
+A varnished plaque sits beside the door on the right, reading ‘Bath House’, whilst a similar sign sitting by the door straight ahead reads ‘Kitchen’, a third unmarked door on the left is also present.
+
+CHOICE
+BATH HOUSE >p79
+KITCHEN >p45
+LEFT DOOR >p4
+
+Queen of Emerald Waters - jackjacko-eponymous.deviantart…
+Octavia Painting - Jade Meteor - not-reality.tumblr.com/

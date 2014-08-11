@@ -1,0 +1,9 @@
+P76
+Trixie faces the room and decides on where to go next.
+
+CHOICE
+LEFT DOOR >p77
+FORWARD DOOR >p78
+RIGHT DOOR >p77
+
+Graduate Fiction Lounge - nadnerbd.deviantart.com/

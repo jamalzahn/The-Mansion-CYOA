@@ -1,0 +1,10 @@
+P200
+Trixie trots to the door marked Greenhouse and tries the handle, but it does not budge. There appears to be no lock on the handle or any bolts of sorts sealing the door. Her detailed inspection leads her to discover four bits lying on the floor besides the door.
+
+Trixie turns back to face her other two options.
+
+GOT 4 BITS
+
+CHOOSE
+FORWARD DOOR >p58
+RIGHT DOOR >p4

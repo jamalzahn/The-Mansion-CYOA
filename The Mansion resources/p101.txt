@@ -1,0 +1,6 @@
+P101
+Trixie carelessly canters ahead and Twilight spots an oddity in the path, she yells to warn Trixie as she continues ahead.
+
+CHOICE
+LISTEN TO TWILIGHT >p103
+CARRY ON >p102

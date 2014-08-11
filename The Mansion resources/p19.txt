@@ -1,0 +1,8 @@
+P19
+Entering onto the roof, the girls traverse the cold night air and enter into an extension rising higher than the mansion itself.
+
+“It’s a library!” Twilight screams with delight. As she prances off carelessly to inspect every single book presented before them, Trixie’s attention is caught more by an already open article on a nearby desk.
+
+CHOICE
+READ THE BOOK >p53
+IGNORE IT >p20

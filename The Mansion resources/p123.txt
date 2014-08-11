@@ -1,0 +1,6 @@
+P123
+Casting a simple spell, the mares return to normal size. Standing together, they choose how to continue from here.
+
+CHOICE
+FORWARD DOOR >p124
+RIGHT DOOR >p155

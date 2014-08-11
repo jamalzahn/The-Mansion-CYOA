@@ -1,0 +1,7 @@
+P51
+The girls ascend to the top and poke their heads through the hatch, finding themselves in an observatory.
+
+CHOOSE
+RUMMAGE AROUND >p52
+INVESTIGATE THE TELESCOPE >p181
+CARRY ON >p19

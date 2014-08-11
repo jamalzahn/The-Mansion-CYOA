@@ -1,0 +1,10 @@
+P83
+Trixie peers into the well for a moment and feels her hooves give way, the stone structure collapses and she tumbles down into the bottom.
+
+Standing up and looking around for a moment, there seems to be no escape. She puts her hoof to her chin to think of a solution and notices a runny sensation on her body. She looks down to find her hoof dissolving against her chest, and then sees her whole body melting into a large, gooey puddle, heading for the drain in the centre of the well’s bottom.
+
+The last of her trickles out through a tiny drainage pipe into an area deep beneath the mansion’s estate. The darkness impeding her vision, though Trixie is entirely sure of where she is, the dungeon. There is no clear indication of where to go, only the choice of left or right.
+
+CHOOSE
+LEFT >p84
+RIGHT >p108

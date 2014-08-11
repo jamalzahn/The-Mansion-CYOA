@@ -1,0 +1,13 @@
+P155
+Pushing on, the mares enter into a hallway with three more options ahead of them. To their left, a large golden door with placards reading ‘Treasury’ sits before them, the other doors remain nameless.
+
+CHOOSE
+TREASURY >p156
+RIGHT >p173
+FORWARD >p16
+
+Queen of Emerald Waters - jackjacko-eponymous.deviantart…
+Delicious - ponykillerx.deviantart.com/
+Flying is Magic - asdf314159265 - asdf314159265.deviantart.com/
+Tango Dancing - Tetrapony - tetrapony.deviantart.com/
+Another Day Another Dungeon - vest.deviantart.com/

@@ -1,0 +1,12 @@
+P36
+Continuing on into the foyer, the girls halt as the entity laughs and asks Trixie if it wants to play a game with her.
+
+“Clearly, you are more a mare of tact than action, and so I beg of you, please, grace me simply with your willingness to partake in a game. If you win, I will allow you and that fallacy to leave here unharmed.”
+
+“What?!” Twilight screams. Trixie backs away from Twilight as the entity suggests that she might be a fake, and before she can accept or deny the creature’s request, she gazes upon her ‘friend’ with confusion in her eyes.
+
+“Trixie, why are you looking at me like that? I’m me! I’m Twilight! Please!”
+
+CHOICE
+TRUST TWILIGHT >p37
+DON’T TRUST TWILIGHT >p189

@@ -1,0 +1,9 @@
+P31
+With haste rivalling the Wonderbolts, Trixie is nearly falling down the spiral steps at a tremendous speed. Above the observatory explodes, the darkness flooding down into the tower as shadowy fingers creep along the walls and down the stairs. Upon bursting into the first floor, Trixie panics and jumps into the room, picking a direction on a whim, ahead there is a door marked ‘Gallery’, whilst to her left the door is blank.
+
+CHOOSE
+LEFT >p33
+FORWARD >p32
+
+Big Trouble In Little China - jackjacko-eponymous.deviantart…
+Another Day Another Dungeon - vest.deviantart.com/

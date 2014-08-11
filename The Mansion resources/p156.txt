@@ -1,0 +1,8 @@
+P156
+The girls enter into the treasury and Trixie's jaw hits the floor. Mountains of gold, gems, artefacts and treasures of all kind await their immediate attention.
+
+CHOICE
+TAKE A LOT OF GOLD >p199
+TAKE A LITTLE GOLD >p157
+LEAVE >p158
+WHAT'S THAT BOTTLE? >p209

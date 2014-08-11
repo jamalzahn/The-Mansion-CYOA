@@ -1,0 +1,8 @@
+P160
+Entering into the bathroom, the girl finds nothing but a dead end. Suddenly a moaning emanates from outside, the monster is here! What will they do?
+
+CHOICE
+STAY PUT >p162
+GO OUTSIDE TO INVESTIGATE >p161
+HIDE IN THE BATH >p164
+HIDE IN THE TOILET >p163

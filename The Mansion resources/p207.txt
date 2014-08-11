@@ -1,0 +1,8 @@
+P207
+Pushing the door quietly open, the two enter into a calm, uneventful room with nothing of particular interest present.
+
+CHOOSE
+LEFT >p120
+FORWARD >p212
+
+Graduate Fiction Lounge - nadnerbd.devviantart.com/

@@ -1,0 +1,9 @@
+P46
+Trixie enters into another connective room with three doors on each wall. A placard to her right pertaining to its door reads ‘Garden’, whilst the other door ahead and to her left remain nameless.
+
+CHOICE
+GARDEN >p80
+FORWARD DOOR >p58
+LEFT DOOR >p4
+
+Graduate Fiction Lounge - nadnerbd.devviantart.com/

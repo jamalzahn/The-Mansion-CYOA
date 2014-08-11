@@ -1,0 +1,11 @@
+P86
+The next room provides nothing but a further three choices, the door on the right labelled as the bathroom with a smaller gold plaque pinned to the surface of it.
+
+CHOOSE
+LEFT >p67
+FORWARD >p95
+BATHROOM p87
+
+City Beneath a Million Snowdrops - repoisn.deviantart.com/
+Queen of Emerald Waters - jackjacko-eponymous.deviantart…
+Field - vardastouch.deviantart.com/

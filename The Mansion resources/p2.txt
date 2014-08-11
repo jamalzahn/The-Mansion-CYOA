@@ -1,0 +1,18 @@
+P2
+Trixie trots up the cobbled steps and approaches the large brown doors, slipping them open and looking back before entering. Her last chance to choose to go back closes ominously behind her as she steps forth into the grand foyer of the manor.
+
+Moving forward she discovers a table set with a simple white cloth. Upon it lays three items.
+
+TAKE TWO
+
+THE NECKLACE
+THE KEY
+THE JEWEL
+
+As Trixie reaches for the third and final object a deep, guttural snarling bellows from behind. She turns to find the front doors wreathing in flames of shadow, a hollow creature leaping forth to charge at the unicorn. In fear, she abandons the third item as she flees.
+
+TRIXIE MUST QUICKLY CHOOSE HER ESCAPE PATH
+
+UPSTAIRS >p3
+LEFT CORRIDOR >p55
+RIGHT CORRIDOR >p43

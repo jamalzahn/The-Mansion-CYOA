@@ -1,0 +1,7 @@
+P28
+As Trixie nears the end of the hallway, two statues that once stood as it’s guards have been brought to life before her to try and prevent her escape.
+
+DOES TRIXIE HAVE THE JEWEL?
+
+YES >p186
+NO >p29

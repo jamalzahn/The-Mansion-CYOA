@@ -1,0 +1,6 @@
+P127
+Searching through the lines and lines of books, with a helpful pair of eyes on her head to aid, Trixie finally comes across what seems to be just what the two are looking for.
+
+CHOICE
+READ THE BOOK >p128
+PUT IT BACK >p197

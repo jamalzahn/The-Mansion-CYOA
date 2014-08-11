@@ -1,0 +1,62 @@
+mansion notes
+
+remember last page (for back button) 
+difficulty levels? set number of lives/rewinds?
+harcore give one life
+track karma, bits, statuses and display (bottom bar?)
+animate page movement
+show page numbers, show what page to go to?
+endings gallery page?
+seqential browsing? unlockable?
+
+page class
+ui class
+where to track money,etc?
+link to art? show artist's icons(will need to keep up to date)?
+test for loops, no infinate gains, ect.
+56,66,68,141 has 2 return points, 40 has 3
+107 needs to add karma once only ("The shipping gods smile upon you" or something in hardcore)
+saucy 170
+
+readIn - Click here to continue read in as continue
+make robust?
+give customizable options?
+support exclusion of CHOICE before branch
+CHOOSE YOUR ANSWER map to something, alternate wording, use radials?
+support for missing pages/default page
+
+dupe images
+108 100 12
+112 111 14
+168 110 13
+173 158 62
+174 155 95
+178 106
+186 146
+187 145 3
+188 189
+190 143
+201 125 51
+203 72
+130 25
+133 28
+136 31
+139 38
+140 39
+142 41
+149 52
+147 54
+49 60
+120 63
+73 53
+129 74
+207 76
+77 47
+78 16
+46 8
+82 10
+85 43
+163 88
+79 93
+157 97
+199 99

@@ -1,0 +1,6 @@
+P201
+Completely tiring herself out, Trixie finally reaches the end of the spiral. Quietly nudging open the trapdoor at the top reveals a tall, expansive room with enormous glass panels and beside them, a large, impressive telescope pointing out into the night sky.
+
+LOOK INTO THE TELESCOPE?
+YES >p202
+NO >p203

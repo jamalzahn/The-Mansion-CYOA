@@ -1,0 +1,13 @@
+P58
+Trixie presses on through the door and trudges down the long featureless corridor. It seems to go on forever and Trixie begins to grow weary, her hooves growing heavier with each step.
+
+Finally the end comes and Trixie pushes the door open, entering into another unremarkable room, save for a roaring fireplace.
+
+She feels the need to press on but her hooves ache immensely.
+
+REST?
+YES >p59
+NO >p60
+
+Another Day Another Dungeon - vest.deviantart.com/
+Big Trouble In Little China - jackjacko-eponymous.deviantart…

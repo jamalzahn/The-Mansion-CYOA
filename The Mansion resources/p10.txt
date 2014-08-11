@@ -1,0 +1,13 @@
+P10
+Trixie trots over to the well, leaving Twilight behind for a moment as she incessantly babbles on about the history of the great tree.
+
+The two stop dead in their tracks, the chilling sensation of the frosty air coming over them once again as they observe through the deep and dense fog of the garden what look like headstones peeking out from between the bushes on one of the paths.
+
+“Is that a?”
+
+“I… think it is”
+
+CHOICE
+
+REMAIN AT THE WELL >p11
+GO TO THE GRAVEYARD >p191

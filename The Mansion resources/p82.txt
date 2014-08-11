@@ -1,0 +1,6 @@
+P82
+Trixie heads over to the well, just beyond, she can see a graveyard.
+
+CHOICE
+LOOK INTO THE WELL >p83
+GO TO THE GRAVEYARD >p205

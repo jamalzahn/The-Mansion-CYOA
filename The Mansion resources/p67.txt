@@ -1,0 +1,10 @@
+P67
+Slipping through then next door, Trixie finds herself in the central room of the second floor.
+
+Red drapes hang from the eaves between the doors in the corners whilst a pedestal sits in the centre with a small white triangle on the top of it.
+
+INSPECT THE OBJECT?
+YES >p69
+NO >p68
+
+Unique Flower - hazurasinner.deviantart.com/

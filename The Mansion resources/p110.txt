@@ -1,0 +1,6 @@
+P110
+Trixie comes across some low incline stairs and ascends into a room via a secret passage, the room is full of portraits and this is clearly the gallery. One of the paintings, however, stands out to her.
+
+CHOICE
+INSPECT THE PORTRAIT >p56
+CARRY ON >p111

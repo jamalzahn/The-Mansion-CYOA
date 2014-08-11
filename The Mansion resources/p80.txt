@@ -1,0 +1,6 @@
+P80
+Trixie enters out into the garden, ahead, an enormous tree stretches into the night sky and to the left of it lies a well.
+
+CHOICE
+INSPECT THE TREE >p81
+GO TO THE WELL >p82

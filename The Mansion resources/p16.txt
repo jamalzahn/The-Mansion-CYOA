@@ -1,0 +1,10 @@
+P16
+Travelling forwards, the girls enter into the central room of the second floor. They observe red drapes adorning the corners of the walls, withheld by golden rope to allow an array of beautiful paintings into view. On each side of the four walls, familiar brown doors stand waiting to be investigated whilst in the centre of the room, a short ornate plinth sits with a glass pyramid resting on the top.
+
+CHOICE
+INVESTIGATE THE PLINTH >p17
+LEFT DOOR >p184
+FORWARD DOOR >p184
+RIGHT DOOR >p184
+
+Unique Flower - hazurasinner.deviantart.com/

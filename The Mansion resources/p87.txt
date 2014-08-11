@@ -1,0 +1,8 @@
+P87
+Entering into the bathroom, Trixie finds nothing but a dead end. Suddenly a moaning emanates from outside, the monster is here! What will Trixie do?
+
+CHOOSE
+STAY PUT >p86
+GO OUTSIDE TO INVESTIGATE >p90
+HIDE IN THE BATH >p91
+HIDE IN THE TOILET >p88

@@ -1,0 +1,10 @@
+P63
+Trixie traverses another corridor, finally entering into another plain room with two exits, one to her front and one to her right as well as a table on the left.
+
+A peculiar force encourages Trixie to peruse the table, leading her to discover a tiny bottle of green, bubbling liquid and a small slice of deliciously appealing cake resting on it.
+
+Trixie doesn’t want to, but she can’t help herself, as she reaches out to the table, she cannot pull away, but retains enough control to direct her hoof.
+
+CHOICE
+THE CAKE >p65
+THE DRINK >p64

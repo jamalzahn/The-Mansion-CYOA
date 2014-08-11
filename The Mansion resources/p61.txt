@@ -1,0 +1,6 @@
+P61
+Trixie ascends the seemingly unending stairs until finally a door presents itself, yet there are more stairs spiralling upwards.
+
+CHOOSE
+ENTER DOOR >p62
+CONTINUE CLIMBING >p201

@@ -1,0 +1,11 @@
+P14
+Entering into the second floor foyer, the girls are presented with a multitude of options. Doors line the walls of the room and behind them, a grandfather clock ticks quietly. Trixie tries a few of the doors and rattles them in their frames, finding a few to be locked.
+
+CHOICE
+
+INSPECT THE CLOCK >p15
+BACK DOOR >p179
+FIRST FORWARD DOOR >p16
+SECOND FORWARD DOOR >p206
+
+Eeeyaie aie aye eee - vest.deviantart.com/
