@@ -1,5 +1,7 @@
 mansion notes
 
+readIn changes Page object
+
 remember last page (for back button) 
 difficulty levels? set number of lives/rewinds?
 harcore give one life
@@ -12,18 +14,10 @@ seqential browsing? unlockable?
 page class
 ui class
 where to track money,etc?
-link to art? show artist's icons(will need to keep up to date)?
 test for loops, no infinate gains, ect.
 56,66,68,141 has 2 return points, 40 has 3
 107 needs to add karma once only ("The shipping gods smile upon you" or something in hardcore)
 saucy 170
-
-readIn - Click here to continue read in as continue
-make robust?
-give customizable options?
-support exclusion of CHOICE before branch
-CHOOSE YOUR ANSWER map to something, alternate wording, use radials?
-support for missing pages/default page
 
 dupe images
 108 100 12

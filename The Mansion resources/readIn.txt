@@ -1,0 +1,51 @@
+link to art? show artist's icons(will need to keep up to date)?
+
+readIn
+make robust?
+support exclusion of CHOICE before branch
+support for missing pages/default page
+
+
+
+[]optional
+<>required
+page number entered in as numbers only
+each command on one line, some commands can use other commands
+stop reading after CHOICE, CHECK, GOTO, CONTINUE, GAMEOVER, WIN or BACK
+
+IMAGE <path> [HLINK source]//read in as string, UI will handle resizing
+
+ITEM <name> //for single bool type item
+LOSE <ITEM> //remove bool item
+PICK <#toTake> ITEM, ITEM, ITEM //for taking multiple, add support for ADD too? Negative to LOSE
+ADD <label> <number> //for quantity items, can be negative {option in story to set min value}
+
+HLINK (for hyperlink) use HTML?
+
+CHOICE [label] <page> //recomende for normal use
+CHECK <ITEM> <pageIfTrue> <pageIfFalse> //aslo alow gain/lose ITEM or ADD
+GOTO [label] <page> //used for rare cases
+CONTINUE [label](to move to next page)
+GAMEOVER [page]//end game/lose life send back optional if final. hardmode my override.
+WIN [label] <page> //ends game, sends to score page
+BACK [page] //no param returns to last page, can specify a page //need to figure out how to do this.
+
+<<LATER>>
+RADIAL <#choices> <label1> <page>, <label2> <page>.... //support later, if options given less than #choices don't implement
+HEAD <headerText> //use for header on page. UI handles formatting (left justified on odd, right on even)
+
+
+Basic file layout is:
+//HEAD
+pageNumber as #,(P)#, or (P)age# //read line, strip non-numeric, remaining should be page number
+
+IMAGE (optional)
+IMAGESOURCE
+
+page text
+
+ITEM manipulations (optional)
+
+IMAGESOURCE
+
+PAGE movements //nothing after this
