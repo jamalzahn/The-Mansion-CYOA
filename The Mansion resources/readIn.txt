@@ -29,7 +29,7 @@ CONTINUE [label](to move to next page)
 GAMEOVER [page]//end game/lose life send back optional if final. hardmode my override.
 WIN [label] <page> //ends game, sends to score page
 BACK [page] //no param returns to last page, can specify a page //need to figure out how to do this.
-
+ //may make back implicit in GAMEOVER
 <<LATER>>
 RADIAL <#choices> <label1> <page>, <label2> <page>.... //support later, if options given less than #choices don't implement
 HEAD <headerText> //use for header on page. UI handles formatting (left justified on odd, right on even)
