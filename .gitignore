@@ -14,6 +14,10 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Eclipse artifacts
+.project
+.classpath
+
 # =========================
 # Operating System Files
 # =========================
